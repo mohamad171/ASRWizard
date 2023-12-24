@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/lib/utils/*": ["./src/utils/*"],
+      "@/lib/components/*": ["./src/components/*"],
+      "@/lib/constants/*": ["./src/constants/*"],
+      "@/lib/common/*": ["./src/common/*"],
+      "@/pages/*": ["./src/app/*"],
+      "@/lib/services/*": ["./src/services/*"],
+      "@/lib/hooks/*": ["./src/hooks/*"],
+      "@/public/*": ["./public/*"],
+    }
+  }
+}
